@@ -1,3 +1,8 @@
+streamlit
+google-generativeai
 PyPDF2
-google.generativeai
-streamlit 
+nltk
+gTTS
+pygame
+groq
+SpeechRecognition
